@@ -1,7 +1,11 @@
 ### **Exploring HathiTrust: Digitization in Practice**
-1. 
-2. 
-3. 
+1. I started on the Hennessy CSV and looked for the most common authors and publishers. After that, I searched for poems that intrigued me (simply off name and topic). I found two suitable entries and noted the title, author, and year. No, I was not able to find every entry I searched for. I actually struggled far beyond what I expected. Many poems were layered into issues to the point that I would lose track of what and where I am searching. My main issue came as vague catalog records that would group various issues into one.
+
+2. Yes, there is a “search in this text” feature. The OCR is accurate enough to (often) find the piece of literature you want, but not anymore accurate than that.
+What kinds of errors do you notice? There are signs of dropped/added punctuations, weird line breaks, and even fully misread letters at certain times. Certain errors CAN lead to keyword searches missing entire poems.
+
+3. From the original page, we see the poems typography, spacing, and page design that lets us understand the author more. What appears on the page are fonts, margins, the amount of space the poem takes up. When using the CSV we lose: Unique layout, illustrations, "meta" text, related articles tab (important). While gaining: Standardized layout (title, author, date, etc...) and metadata(correlation with publisher and author).
+
 4. 
 5. 
 
