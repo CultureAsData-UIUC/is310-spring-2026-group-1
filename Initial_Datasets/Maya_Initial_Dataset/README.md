@@ -3,8 +3,11 @@
 #### Initial Dataset
 
 Dataset Name: nfl_media
+
 Number of Records: 75
+
 Unit of Analysis: Individual media-covered events involving NFL players' public statements, social media posts, interviews, podcast, or public appearances. 
+
 Columns/Variables: ID, Player Name, Player Status, Year of Event, Statement Made, Event Description, Platform, Event Type, Media Tone, Post Status, Media Coverage, Sources
 
 | Column Name | Description | Possible Values / Notes |
