@@ -1,11 +1,11 @@
 ## Part 1 (AI SUMMARY): ##
 
 ### AI Article Summary ###
-<li> Authors: Johannes C. Eichstaedt et al. </li>
-<li> Title: The Moral Economy of Social Media</li>
-<li> Journal: Nature Human Behaviour</li>
-<li> Year: 2018</li>
-<li> DOI: https://doi.org/10.1038/s41562-018-0383-4</li>
+<li> Authors: William J. Brady, Julian A. Wills, John T. Jost, Joshua A. Tucker, Jay J. Van Bavel </li>
+<li> Title: Emotion shapes the diffusion of moralized content in social networks</li>
+<li> Journal: PMC</li>
+<li> Year: 2017</li>
+<li> DOI: [https://doi.org/10.1038/s41562-018-0383-4](https://www.pnas.org/doi/full/10.1073/pnas.1618923114)</li>
 <li> Article Link: https://www.nature.com/articles/s41562-018-0383-4</li>
 <li> Code Repository: https://github.com/eichstaedt/moral-economy-social-media</li>
 
