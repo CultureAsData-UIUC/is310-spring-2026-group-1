@@ -5,7 +5,7 @@
 <li> Title: Emotion shapes the diffusion of moralized content in social networks</li>
 <li> Journal: PMC</li>
 <li> Year: 2017</li>
-<li> DOI: [https://doi.org/10.1038/s41562-018-0383-4](https://www.pnas.org/doi/full/10.1073/pnas.1618923114)</li>
+<li> DOI: https://pmc.ncbi.nlm.nih.gov/articles/PMC5514704/ </li>
 <li> Code Repository: https://github.com/eichstaedt/moral-economy-social-media</li>
 
 
