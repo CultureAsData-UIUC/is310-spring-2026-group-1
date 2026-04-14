@@ -4,3 +4,5 @@ This repository will be utilized during the progression of the one-semester proj
 
 ### Group Assignments
 - Mass Digitization & Digital Libraries
+- Initial Datasets
+- Critical Computing & Cultural Data
