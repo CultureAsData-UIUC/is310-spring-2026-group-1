@@ -4,7 +4,7 @@
 **Title:** SportsBuddy: Designing and Evaluating an AI-Powered Sports Video Storytelling Tool Through Real-World Deployment
 **Year:** 2025
 **URL:** https://arxiv.org/abs/2502.08621
-**Code/Tool:** https://sportsbuddy.online
+
 
 ---
 
