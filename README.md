@@ -6,3 +6,4 @@ This repository will be utilized during the progression of the one-semester proj
 - Mass Digitization & Digital Libraries
 - Initial Datasets
 - Critical Computing & Cultural Data
+- Finalized Datasets (Data Demo Day)
