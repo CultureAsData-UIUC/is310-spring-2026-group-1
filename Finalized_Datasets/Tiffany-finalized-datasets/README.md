@@ -89,17 +89,17 @@ This allowed the project to satisfy the computational requirements of the assign
 
 Several important methodological decisions shaped the final dataset.
 
-##### Geographic Representation #####
+#### Geographic Representation ####
 
 Players from multiple countries were intentionally included because volleyball popularity and media visibility vary significantly across regions. Countries such as Japan, Brazil, Turkey, Italy, and Poland often have stronger volleyball fan cultures and more visible media ecosystems, which can substantially affect athlete popularity online.
 
 Nationality and league country were therefore treated as meaningful cultural variables rather than neutral background information.
 
-##### Gender Representation #####
+#### Gender Representation ####
 
 Both men’s and women’s volleyball players were included because digital visibility and branding may operate differently across gendered sports spaces. Gender was included not simply to “remove bias,” but because it may shape sponsorship opportunities, audience engagement, and athlete visibility.
 
-##### Verification Standards #####
+#### Verification Standards ####
 
 Account verification became one of the most important parts of the project. Fully automated scraping methods proved unreliable because many athletes had:
 
@@ -111,13 +111,13 @@ renamed usernames
 
 For this reason, manual verification remained necessary even when computational tools were used.
 
-##### Social Media Metrics #####
+#### Social Media Metrics ####
 
 Only permanent Instagram feed posts were counted. Temporary stories and disappearing content were excluded because they are difficult to archive consistently and would reduce reproducibility.
 
 Follower and post counts were also standardized into numerical values to make computational analysis possible.
 
-##### Cultural Context and Relevance #####
+#### Cultural Context and Relevance ####
 
 One of the most important realizations during this project was that social media popularity in professional volleyball is deeply connected to culture rather than performance alone.
 
