@@ -1,6 +1,6 @@
 # Final Data Essay #
 #### Tiffany Chang - IS310 ####
-Visibility Beyond Performance: Social Media, Sports Culture, and Professional Volleyball
+#### Visibility Beyond Performance: Social Media, Sports Culture, and Professional Volleyball ####
 
 Professional sports increasingly exist not only within arenas and competitions, but also across digital platforms where athletes are constantly visible, branded, and circulated through social media. Platforms such as Instagram have transformed athletes into public digital figures whose popularity is shaped not only by athletic performance, but also by online engagement, national fan cultures, media visibility, and institutional prestige. This project began with a relatively simple question: is there a relationship between a volleyball player’s athletic success and their social media popularity? However, as I constructed and expanded my dataset over the course of the semester, the project evolved into a broader cultural investigation about how visibility itself is produced in professional sports.
 
