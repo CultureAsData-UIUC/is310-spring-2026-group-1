@@ -6,18 +6,18 @@ This dataset examines the relationship between professional volleyball players, 
 
 The finalized dataset contains 80 professional volleyball players from multiple countries and professional leagues around the world. Rather than focusing only on athletic performance statistics, the dataset was expanded to include variables connected to cultural visibility and institutional recognition. The dataset includes:
 
-gender
-nationality
-league country
-team name
-position
-years active
-Olympian status
-national team membership
-award count
-championships won
-Instagram following count
-Instagram post count
+<li>gender</li>
+<li>nationality</li>
+<li>league country</li>
+<li>team name</li>
+<li>position</li>
+<li>years active</li>
+<li>Olympian status</li>
+<li>national team membership</li>
+<li>award count</li>
+<li>championships won</li>
+<li>Instagram following count</li>
+<li>Instagram post count</li>
 
 The project ultimately shifted from a simple “performance versus followers” framework into a broader exploration of how social media visibility in sports is shaped by global sports infrastructure, national popularity, branding, and athlete identity.
 
@@ -29,12 +29,12 @@ Instead, the dataset increasingly pointed toward larger cultural and institution
 
 As a result, the project evolved into a broader cultural analysis examining how athletes become visible digital figures through the interaction of:
 
-sports media systems
-national fan cultures
-institutional prestige
-globalization
-online branding
-and social media engagement
+<li>sports media systems</li>
+<li>national fan cultures</li>
+<li>institutional prestige</li>
+<li>globalization</li>
+<li>online branding</li>
+<li>and social media engagement</li>
 
 Rather than treating follower counts as purely objective indicators of athletic skill, this project approaches digital popularity as a socially constructed form of visibility shaped by multiple overlapping systems.
 
@@ -44,18 +44,18 @@ I began by manually constructing a list of 80 professional volleyball players. I
 
 For each athlete, I manually verified their identity before collecting any social media information. This step was especially important because volleyball athletes often have:
 
-fan pages
-duplicate accounts
-inactive profiles
-repost accounts
-outdated usernames
+<li>fan pages</li>
+<li>duplicate accounts</li>
+<li>inactive profiles</li>
+<li>repost accounts</li>
+<li>outdated usernames</li>
 
 To reduce the possibility of incorrect data collection, accounts were verified through several methods:
 
-Instagram verification badges when available
-official team or federation links
-consistent posting history and player imagery
-cross references with club or national team accounts
+<li>Instagram verification badges when available</li>
+<li>official team or federation links</li>
+<li>consistent posting history and player imagery</li>
+<li>cross references with club or national team accounts</li>
 
 Only accounts that could reasonably be identified as official athlete accounts were included in the dataset.
 
@@ -65,16 +65,16 @@ After verification, Instagram statistics were collected and entered into a sprea
 
 Several tools were used throughout the construction and organization of the dataset.
 
-The dataset was initially organized using Apple Numbers before later being exported into CSV format for computational analysis and cleaning. Python scripts and web scraping workflows were explored for automating portions of the data collection process, particularly social media statistic retrieval and data organization.
+The dataset was initially organized using Apple Numbers before later being exported into CSV format for computational analysis and cleaning. Python scripts and web scraping workflows were explored for automating portions of the data collection process, particularly social media statistic retrieval and data organization from websites like Instastatistics.
 
 The primary tools explored included:
 
-Python
-BeautifulSoup
-Requests
-Instaloader
-third-party Instagram statistics websites
-spreadsheets and CSV processing tools
+<li>Python</li>
+<li>BeautifulSoup</li>
+<li>Requests</li>
+<li>Instaloader</li>
+<li>third-party Instagram statistics websites</li>
+<li>spreadsheets and CSV processing tools</li>
 
 These tools helped automate portions of the workflow, especially data cleaning and attempted retrieval of social media statistics. However, many scraping methods proved unreliable because social media platforms frequently block scraping attempts or fail to distinguish between official athlete accounts and fan pages.
 
@@ -101,13 +101,7 @@ Both men’s and women’s volleyball players were included because digital visi
 
 #### Verification Standards ####
 
-Account verification became one of the most important parts of the project. Fully automated scraping methods proved unreliable because many athletes had:
-
-fan pages
-duplicate profiles
-inactive accounts
-private accounts
-renamed usernames
+Account verification became one of the most important parts of the project. Fully automated scraping methods proved unreliable because many athletes have unofficial fan accounts or accounts with the same name.
 
 For this reason, manual verification remained necessary even when computational tools were used.
 
@@ -131,13 +125,13 @@ Athletes from countries where volleyball is less commercially visible often had 
 
 This suggests that digital popularity is shaped not only by athletic performance, but also by:
 
-national identity
-media infrastructure
-institutional prestige
-globalization of sports media
-sponsorship visibility
-fan culture
-and league prominence
+<li>national identity</li>
+<li>media infrastructure</li>
+<li>institutional prestige</li>
+<li>globalization of sports media</li>
+<li>sponsorship visibility</li>
+<li>fan culture</li>
+<li>and league prominence</li>
 
 The dataset therefore became less about identifying “the best players” and more about understanding how sports culture and digital media shape athlete visibility online.
 
@@ -181,12 +175,12 @@ Overall, these observations support the idea that professional athletes function
 
 This dataset is useful for examining patterns of digital visibility, institutional recognition, and sports culture within professional volleyball. It can help explore relationships between:
 
-nationality and social media popularity
-institutional prestige and online visibility
-league prominence and audience size
-gender and athlete branding
-national team participation and follower growth
-globalization and digital fan culture
+<li>nationality and social media popularity</li>
+<li>institutional prestige and online visibility</li>
+<li>league prominence and audience size</li>
+<li>gender and athlete branding</li>
+<li>national team participation and follower growth</li>
+<li>globalization and digital fan culture</li>
 
 However, the dataset cannot directly determine causation. A large follower count does not necessarily mean an athlete performs better, and athletic performance alone cannot fully explain digital popularity. Social media visibility is shaped by multiple overlapping cultural, institutional, and economic systems.
 
