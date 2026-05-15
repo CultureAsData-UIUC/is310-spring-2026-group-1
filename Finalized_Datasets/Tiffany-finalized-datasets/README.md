@@ -4,9 +4,10 @@
 
 This dataset examines the relationship between professional volleyball players, digital visibility, and sports culture through social media metrics and institutional indicators. The project focuses on how athletes are represented and circulated through online platforms, particularly Instagram, and how that visibility may relate not only to athletic success, but also to broader cultural systems such as nationality, league prominence, branding, and international recognition.
 
-The finalized dataset contains 80 professional volleyball players from multiple countries and professional leagues around the world. Rather than focusing only on athletic performance statistics, the dataset was expanded to include variables connected to cultural visibility and institutional recognition. The dataset includes:
+The finalized dataset contains approximately 100 professional volleyball players from multiple countries and professional leagues around the world. Rather than focusing only on athletic performance statistics, the dataset was expanded to include variables connected to cultural visibility and institutional recognition. The dataset includes:
 
 <li>gender</li>
+<li>Instagram URL</li>
 <li>nationality</li>
 <li>league country</li>
 <li>team name</li>
